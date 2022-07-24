@@ -1,0 +1,6 @@
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula37\Aula37\bin\Debug\Aula37.exe.config
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula37\Aula37\bin\Debug\Aula37.exe
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula37\Aula37\bin\Debug\Aula37.pdb
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula37\Aula37\obj\Debug\Aula37.exe
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula37\Aula37\obj\Debug\Aula37.pdb
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula37\Aula37\obj\Debug\Aula37.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\bin\Debug\Aula24.exe.config
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\bin\Debug\Aula24.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\bin\Debug\Aula24.pdb
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\obj\Debug\Aula24.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\obj\Debug\Aula24.pdb
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\obj\Debug\Aula24.csproj.AssemblyReference.cache
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\obj\Debug\Aula24.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\bin\Debug\Aula24.exe.config
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\bin\Debug\Aula24.exe
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\bin\Debug\Aula24.pdb
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\obj\Debug\Aula24.csproj.AssemblyReference.cache
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\obj\Debug\Aula24.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\obj\Debug\Aula24.exe
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula24\Aula24\obj\Debug\Aula24.pdb

@@ -1,0 +1,13 @@
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\bin\Debug\Aula06.exe.config
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\bin\Debug\Aula06.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\bin\Debug\Aula06.pdb
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\obj\Debug\Aula06.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\obj\Debug\Aula06.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\obj\Debug\Aula06.pdb
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\bin\Debug\Aula06.exe.config
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\bin\Debug\Aula06.exe
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\bin\Debug\Aula06.pdb
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\obj\Debug\Aula06.csproj.AssemblyReference.cache
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\obj\Debug\Aula06.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\obj\Debug\Aula06.exe
+C:\Users\Jonas Programador\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula06\Aula06\obj\Debug\Aula06.pdb

@@ -1,0 +1,9 @@
+C:\Users\JONAS\Desktop\Curso Java Logica de Programação Udemy 2021\Aula26\Aula26\bin\Debug\Aula26.exe.config
+C:\Users\JONAS\Desktop\Curso Java Logica de Programação Udemy 2021\Aula26\Aula26\bin\Debug\Aula26.exe
+C:\Users\JONAS\Desktop\Curso Java Logica de Programação Udemy 2021\Aula26\Aula26\bin\Debug\Aula26.pdb
+C:\Users\JONAS\Desktop\Curso Java Logica de Programação Udemy 2021\Aula26\Aula26\obj\Debug\Aula26.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Curso Java Logica de Programação Udemy 2021\Aula26\Aula26\obj\Debug\Aula26.exe
+C:\Users\JONAS\Desktop\Curso Java Logica de Programação Udemy 2021\Aula26\Aula26\obj\Debug\Aula26.pdb
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula26\Aula26\bin\Debug\Aula26.exe.config
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula26\Aula26\obj\Debug\Aula26.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula26\Aula26\obj\Debug\Aula26.pdb

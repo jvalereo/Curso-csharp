@@ -1,0 +1,6 @@
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\teste\teste\bin\Debug\teste.exe.config
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\teste\teste\bin\Debug\teste.exe
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\teste\teste\bin\Debug\teste.pdb
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\teste\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\teste\teste\obj\Debug\teste.exe
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\teste\teste\obj\Debug\teste.pdb

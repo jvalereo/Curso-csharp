@@ -1,0 +1,7 @@
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula25\Aula25\bin\Debug\Aula25.exe.config
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula25\Aula25\bin\Debug\Aula25.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula25\Aula25\bin\Debug\Aula25.pdb
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula25\Aula25\obj\Debug\Aula25.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula25\Aula25\obj\Debug\Aula25.pdb
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula25\Aula25\obj\Debug\Aula25.csproj.AssemblyReference.cache
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula25\Aula25\obj\Debug\Aula25.csproj.CoreCompileInputs.cache

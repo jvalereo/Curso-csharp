@@ -1,0 +1,6 @@
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula32\Aula32\bin\Debug\Aula32.exe.config
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula32\Aula32\bin\Debug\Aula32.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula32\Aula32\bin\Debug\Aula32.pdb
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula32\Aula32\obj\Debug\Aula32.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula32\Aula32\obj\Debug\Aula32.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula32\Aula32\obj\Debug\Aula32.pdb

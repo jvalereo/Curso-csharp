@@ -1,0 +1,6 @@
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula27\Aula27\bin\Debug\Aula27.exe.config
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula27\Aula27\bin\Debug\Aula27.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula27\Aula27\bin\Debug\Aula27.pdb
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula27\Aula27\obj\Debug\Aula27.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula27\Aula27\obj\Debug\Aula27.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula27\Aula27\obj\Debug\Aula27.pdb

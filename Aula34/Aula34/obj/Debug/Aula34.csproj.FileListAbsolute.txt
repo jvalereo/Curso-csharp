@@ -1,0 +1,7 @@
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula34\Aula34\bin\Debug\Aula34.exe.config
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula34\Aula34\bin\Debug\Aula34.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula34\Aula34\bin\Debug\Aula34.pdb
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula34\Aula34\obj\Debug\Aula34.exe
+C:\Users\JONAS\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula34\Aula34\obj\Debug\Aula34.pdb
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula34\Aula34\obj\Debug\Aula34.csproj.AssemblyReference.cache
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula34\Aula34\obj\Debug\Aula34.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula38\Aula38\bin\Debug\Aula38.exe.config
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula38\Aula38\bin\Debug\Aula38.exe
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula38\Aula38\bin\Debug\Aula38.pdb
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula38\Aula38\obj\Debug\Aula38.exe
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula38\Aula38\obj\Debug\Aula38.pdb
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula38\Aula38\obj\Debug\Aula38.csproj.AssemblyReference.cache
+C:\Users\Jonas\Desktop\Curso de C# Logica de Programação Udemy  2020\Aula38\Aula38\obj\Debug\Aula38.csproj.CoreCompileInputs.cache
