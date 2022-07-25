@@ -1,4 +1,3 @@
-Curso Java Lógica de Programação
 # Curso Lógica de Programação Básico Udemy
 
 <a href="#">
